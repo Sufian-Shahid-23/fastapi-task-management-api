@@ -1,23 +1,15 @@
-# Task Manager API
-
-A FastAPI-based Task Management system with user authentication and CRUD operations.
+# fastapi-task-management-api
+REST API for task management using FastAPI and JWT authentication
 
 ## Features
-
-- Create, update, delete tasks
-- User authentication (JWT)
-- Task categories and priorities
-- SQLite database integration
+- Feature 1
+- Feature 2
+- Feature 3
 
 ## Tech Stack
-
-- FastAPI
-- SQLAlchemy
-- SQLite
 - Python
+- FastAPI
+- Pandas
 
-## Run Project
-
-```bash
-uvicorn app.main:app --reload
-```
+## Status
+In Development
