@@ -107,6 +107,8 @@ uvicorn app.main:app --reload
 
 ---
 
+<img width="1774" height="736" alt="requests" src="https://github.com/user-attachments/assets/83c28931-ec8e-48d2-925e-af2087ffb46f" />
+
 ## Notes
 
 - Python 3.10+ required
